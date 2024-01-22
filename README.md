@@ -113,4 +113,4 @@ The WSL Terminal should display successful results, and the emulator should refl
 
 ![image](https://github.com/Ammaar19/Midas_2029207/assets/117352598/0687dd42-867d-428d-913c-0ce1b11baf75)
 
-#Feel free to explore further in the provided documentation and customize your Maestro application.
+# Feel free to explore further in the provided documentation and customize your Maestro application. 
