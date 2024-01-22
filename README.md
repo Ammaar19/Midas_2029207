@@ -1,6 +1,6 @@
 # React-Native Maestro Application Setup Documentation
 
-## Developer Information
+## Contributor
 - **Name:** Ammaar Sohail
 - **Roll no:** 2029207
 - **Email-id:** ammaarsohail19@gmail.com
