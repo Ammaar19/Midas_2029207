@@ -111,5 +111,6 @@ maestro test wiki-flow.yaml
 The WSL Terminal should display successful results, and the emulator should reflect the expected behavior.
 ![image](https://github.com/Ammaar19/Midas_2029207/assets/117352598/cb63c9c5-d9bb-4afc-9793-14753f536118)
 
+![image](https://github.com/Ammaar19/Midas_2029207/assets/117352598/0687dd42-867d-428d-913c-0ce1b11baf75)
 
-Feel free to explore further in the provided documentation and customize your Maestro application.
+#Feel free to explore further in the provided documentation and customize your Maestro application.
